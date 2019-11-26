@@ -18,4 +18,6 @@ int main()
 	printf("Sum : %d\n", sum);
 	printf("Average : %d\n", sum/3);
 	return 0;
+	
+	//2019-11-26 - pull request ½Ç½À. 
 }
